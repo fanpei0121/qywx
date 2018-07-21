@@ -1,6 +1,6 @@
 <?php
 
-import('Ylfc.Zfb.AopSdk', EXTEND_PATH);
+namespace Ylfc;
 
 class ZfbShh {
     private $gatewayUrl = 'xxxxxxxxxxxxxx';
