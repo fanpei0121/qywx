@@ -2,10 +2,10 @@
 namespace Ylfc;
 
 class QiyeWxSq {
-    private $suite_id = 'wx507303d1f9e4b204';
-    private $redirect_uri = 'https://pay.weixiaoqu.com/work/complete_back';
+    private $suite_id = 'XXXXXXXXXXXXXXXX';
+    private $redirect_uri = 'XXXXXXXXXXXXXXXXX';
     private $suite_ticket;
-    private $suite_secret = 'SqsD42FJ15HuG3eFjIhOkjb03FS7eAejub2bdz26364';
+    private $suite_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXX';
     public $userid;
 
     public function __construct($userid)
