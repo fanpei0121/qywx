@@ -1,0 +1,3 @@
+创建git ssh key
+
+ssh-keygen -t rsa -C "youremail@yourcompany.com” -f ~/.ssh/id-rsa   
